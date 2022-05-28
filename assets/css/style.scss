@@ -11,3 +11,10 @@ section {
 .wrapper {
     max-width: 850px;
 }
+
+#title-hr {
+    border: solid thin;
+    margin: 0 0 20px;
+    --tw-border-opacity: 1 !important;
+    border-color: rgb(86 84 84/var(--tw-border-opacity)) !important;
+}
